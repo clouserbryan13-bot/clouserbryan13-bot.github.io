@@ -1,1 +1,29 @@
 
+[METADATA]
+modified = 2026-10-17T00:00:00.000Z
+
+[[ACCOUNTS]]
+address = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
+desc = "McCoyCoin issuer account"
+
+[[ACCOUNTS]]
+address = "rnLirUHNFJzpBJufYPjLZSnKBo6rgr5Pn7"
+desc = "Real McCoy Body Worx main account"
+
+[[PRINCIPALS]]
+name = "Bryan Clouser"
+desc = "President/Founder, Real McCoy Body Worx"
+email = "realmccoy13@live.com"
+x = "RealMcCoybodywo"
+
+[ISSUER]
+name = "Real McCoy Body Worx"
+location = "Imperial, MO"
+email = "realmccoy13@live.com"
+web = "https://realmccoybodyworx.link"
+x = "RealMcCoybodywo"
+
+[[CURRENCIES]]
+code = "McCoyCoin"
+issuer = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
+network = "main"
