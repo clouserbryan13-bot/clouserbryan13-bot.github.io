@@ -1,6 +1,5 @@
-
 [METADATA]
-modified = 2026-10-17T00:00:00.000Z
+modified = 2026-10-24T00:00:00.000Z
 
 [[ACCOUNTS]]
 address = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
@@ -18,7 +17,7 @@ x = "RealMcCoybodywo"
 
 [ISSUER]
 name = "Real McCoy Body Worx"
-icon = "https://clouserbryan13-bot.github.io/mccoycoin.png"
+icon = "https://clouserbryan13-bot.github.io/Real-McCoy_logo.png"
 location = "Imperial, MO"
 email = "realmccoy13@live.com"
 web = "https://realmccoybodyworx.link"
@@ -27,5 +26,6 @@ x = "RealMcCoybodywo"
 [[CURRENCIES]]
 code = "4D63436F79436F696E0000000000000000000000"
 name = "McCoyCoin"
+icon = "https://clouserbryan13-bot.github.io/Real-McCoy_logo.png"
 issuer = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
 network = "main"
