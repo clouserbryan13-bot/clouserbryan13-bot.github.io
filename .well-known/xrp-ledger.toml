@@ -24,7 +24,7 @@ web = "https://realmccoybodyworx.link"
 x = "RealMcCoybodywo"
 
 [[CURRENCIES]]
-code = code = "4D63436F79436F696E0000000000000000000000"
+code = "4D63436F79436F696E0000000000000000000000"
 name = "McCoyCoin"
 issuer = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
 network = "main"
