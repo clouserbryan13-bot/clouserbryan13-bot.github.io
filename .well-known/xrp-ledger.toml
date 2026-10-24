@@ -18,6 +18,7 @@ x = "RealMcCoybodywo"
 
 [ISSUER]
 name = "Real McCoy Body Worx"
+icon = "https://clouserbryan13-bot.github.io/mccoycoin.png"
 location = "Imperial, MO"
 email = "realmccoy13@live.com"
 web = "https://realmccoybodyworx.link"
