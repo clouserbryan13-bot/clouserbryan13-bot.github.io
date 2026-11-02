@@ -1,3 +1,4 @@
+
 [METADATA]
 modified = 2026-10-24T00:00:00.000Z
 
@@ -29,3 +30,25 @@ name = "McCoyCoin"
 icon = "https://clouserbryan13-bot.github.io/Real-McCoy_logo.png"
 issuer = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
 network = "main"
+
+[[ISSUERS]]
+address = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
+name = "Real McCoy Body Worx"
+desc = "Real McCoy Body Worx, an auto body shop in Imperial, MO"
+icon = "https://clouserbryan13-bot.github.io/Real-McCoy_logo.png"
+
+[[TOKENS]]
+issuer = "rwXipFFZXSbDzwbQDicTfQBRpYxALqZkw3"
+currency = "4D63436F79436F696E0000000000000000000000"
+name = "McCoyCoin"
+desc = "McCoyCoin from Real McCoy Body Worx, Imperial, MO"
+icon = "https://clouserbryan13-bot.github.io/Real-McCoy_logo.png"
+
+[[TOKENS.URLS]]
+url = "https://realmccoybodyworx.link"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.URLS]]
+url = "https://x.com/RealMcCoybodywo"
+type = "social"
